@@ -1,5 +1,5 @@
 function start(){
-
+    $("#menu a:first").click();
 }
 
 $(window).on("load", start);
